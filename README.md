@@ -13,8 +13,7 @@ chmod +x install.sh &&
 ./install.sh
 ```
 ### ▶ Usage
-```python3 main.py```
-It's pretty minimal...
+```python3 main.py # It's pretty minimal...```
 ### ☕ **Donations and Support** 
 Buy me a coffee! Creating this kind of things is tedious sometimes and enjoyable also. When you support a developer, you really make it to work a lot happier 😄
 ### [ 👉 **Donate using PayPal** ](https://www.paypal.com/donate/?hosted_button_id=CDZH8GJET9SNU)
