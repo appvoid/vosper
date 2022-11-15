@@ -2,7 +2,10 @@
 Real-Time Whisper Voice Recognition with vosk model feedback
 
 ### Installation
-`chmod +x install.sh && ./install.sh`
+`https://github.com/appvoid/vosper.git && cd vosper && chmod +x install.sh && ./install.sh`
+
+### Usage
+`python3 main.py`
 
 It's pretty minimal...
 
