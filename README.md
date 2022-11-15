@@ -1,5 +1,6 @@
 # vosper
 🕑 Real-Time Whisper Voice Recognition with vosk model feedback 🎙
+![](vosper.gif)
 
 ### ⭐ Installation
 ```
