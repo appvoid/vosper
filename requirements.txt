@@ -1,0 +1,5 @@
+vosk
+scipy
+sounddevice
+setuptools-rust
+git+https://github.com/openai/whisper.git
