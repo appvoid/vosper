@@ -22,3 +22,6 @@ Buy me a coffee! Creating this kind of things is tedious sometimes and enjoyable
 - [x] Vosk Real-Time inference and Whisper VAD support
 - [ ] Class-Based implementation
 - [ ] Easier way to choose a whisper model
+
+# Disclaimer
+Real-Time usage requires a GPU with at least 2-4~ gb of vram. The more the vram, the largest the model you can load, the better the transcription and the slower it gets.
