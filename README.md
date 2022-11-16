@@ -23,5 +23,5 @@ Buy me a coffee! Creating this kind of things is tedious sometimes and enjoyable
 - [ ] Class-Based implementation
 - [ ] Easier way to choose a whisper model
 
-# Disclaimer
+### Disclaimer
 Real-Time usage scenarios (like a voice assistant for example) requires a GPU with at least 2-4~ gb of vram. The more the vram, the largest the model you can load, the better the transcription and the slower it gets.
