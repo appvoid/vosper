@@ -6,7 +6,7 @@ import os, pyaudio, whisper, recorder
 from vosk import SetLogLevel, Model, KaldiRecognizer
 SetLogLevel(-1)
 
-whisp = whisper.load_model("medium")
+whisp = whisper.load_model("small")
 transcribing_whisper = False
 recording_whisper = False
 
