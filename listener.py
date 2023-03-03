@@ -1,5 +1,5 @@
 # VOSK + Whisper speech recognition system
-'''This module utilizes vosk as user feedback as wel as VAD solution
+'''This module utilizes vosk as user feedback as well as VAD solution
     While it uses OpenAI whisper for actual transcription.'''
 
 import os, pyaudio, whisper, recorder
