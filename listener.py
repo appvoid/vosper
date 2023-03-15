@@ -33,7 +33,7 @@ def Stream(listening=True):
 
 def listen (data, recognizer):
     global recording_whisper
-    data = data.read(4096)
+    data = data.read(4096, exception_on_overflow=False)
     if recognizer.AcceptWaveform(data):
         recorder.stop()
         text = recognizer.Result()[14:-3]
