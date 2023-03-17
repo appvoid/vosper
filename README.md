@@ -1,4 +1,5 @@
-![ an image of arobor ](/path/to/image. png "Vosper Logo")
+<img src="https://github.com/appvoid/vosper/raw/main/logo.png" width="100%" height="auto">
+
 # vosper
 🕑 Real-Time Whisper Voice Recognition with vosk model feedback 🎙
 ### Features
