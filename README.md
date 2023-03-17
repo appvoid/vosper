@@ -1,3 +1,4 @@
+![ an image of arobor ](/path/to/image. png "Vosper Logo")
 # vosper
 🕑 Real-Time Whisper Voice Recognition with vosk model feedback 🎙
 ### Features
