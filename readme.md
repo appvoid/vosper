@@ -8,7 +8,7 @@
 > Vosk 2.0: The codebase was rewritten and more customization was added!<br>
 > Pip is coming: A proper, easier installation and update alternative will be launched soon.
 
-### Features
+### 📑 Features
 - Minimal approach
 - Easy installation
 - Fast feedback thanks to vosk
@@ -24,7 +24,7 @@ chmod +x install.sh &&
 ```python3 main.py # It's pretty minimal...```
 ### ☕ **Donations and Support** 
 [**paypal donation** ](https://www.paypal.com/donate/?hosted_button_id=CDZH8GJET9SNU) or [ **patreon support** ](https://www.patreon.com/bePatron?u=52880328)
-### Roadmap
+### 🔭 Roadmap
 - [x] Vosk Real-Time inference and Whisper VAD support
 - [x] Class-Based implementation
 - [x] Easier way to choose a whisper model
@@ -33,5 +33,5 @@ chmod +x install.sh &&
 - [ ] Custom VAD model support
 - [ ] Python's pip installation method
 
-### Disclaimer
+### 🔴 Disclaimer
 Real-Time usage scenarios (like a voice assistant for example) requires a GPU with at least 2-4~ gb of vram. The more the vram, the largest the model you can load, the better the transcription and the slower it gets.
