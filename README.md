@@ -22,8 +22,11 @@ Buy me a coffee! Creating this kind of things is tedious sometimes and enjoyable
 ### [ 👉 **Become a Patreon!** ](https://www.patreon.com/bePatron?u=52880328)
 ### Roadmap
 - [x] Vosk Real-Time inference and Whisper VAD support
-- [ ] Class-Based implementation
-- [ ] Easier way to choose a whisper model
+- [x] Class-Based implementation
+- [x] Easier way to choose a whisper model
+- [x] Improved code quality, comments, readability, etc...
+- [x] Verbosity switch
+- [ ] Custom VAD
 
 ### Disclaimer
 Real-Time usage scenarios (like a voice assistant for example) requires a GPU with at least 2-4~ gb of vram. The more the vram, the largest the model you can load, the better the transcription and the slower it gets.
