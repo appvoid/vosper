@@ -5,7 +5,7 @@
 
 ### News
 > New logo: Hopefully everyone likes it.<br>
-> Vosk 2.0: The codebase was rewritten and more customization was added! 
+> Vosk 2.0: The codebase was rewritten and more customization was added!<br>
 > Pip is coming: A proper, easier installation and update alternative will be launched soon.
 
 ### Features
