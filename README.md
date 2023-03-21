@@ -5,7 +5,8 @@
 
 ### News
 > New logo: Hopefully everyone likes it.<br>
-> Vosk 2.0: The codebase was rewritten and more customization was added!
+> Vosk 2.0: The codebase was rewritten and more customization was added! 
+> Pip is coming: A proper, easier installation and update alternative will be launched soon.
 
 ### Features
 - Minimal approach
@@ -16,7 +17,7 @@
 ```
 git clone https://github.com/appvoid/vosper.git && 
 cd vosper && 
-chmod +x install.sh && 
+chmod +x install.sh &&
 ./install.sh
 ```
 ### ▶ Usage
@@ -32,6 +33,7 @@ Buy me a coffee! Creating this kind of things is tedious sometimes and enjoyable
 - [x] Improved code quality, comments, readability, etc...
 - [x] Verbosity switch
 - [ ] Custom VAD
+- [ ] pip install method.
 
 ### Error Rate Reference
 *- Lower is better, sorted by performance -*
