@@ -30,8 +30,8 @@ chmod +x install.sh &&
 - [x] Easier way to choose a whisper model
 - [x] Improved code quality, comments, readability, etc...
 - [x] Verbosity switch
-- [ ] Custom VAD
-- [ ] pip install method.
+- [ ] Custom VAD model support
+- [ ] Python's pip installation method
 
 ### Disclaimer
 Real-Time usage scenarios (like a voice assistant for example) requires a GPU with at least 2-4~ gb of vram. The more the vram, the largest the model you can load, the better the transcription and the slower it gets.
