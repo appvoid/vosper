@@ -2,6 +2,11 @@
 
 # vosper
 🕑 Real-Time Whisper Voice Recognition with vosk model feedback 🎙
+
+### News
+> New logo: Hopefully everyone likes it.<br>
+> Vosk 2.0: The codebase was rewritten and more customization was added!
+
 ### Features
 - Minimal approach
 - Easy installation
