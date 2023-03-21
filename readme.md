@@ -11,7 +11,8 @@
 ### 📑 Features
 - Minimal approach
 - Easy installation
-- Fast feedback thanks to vosk
+- Easy modification
+- Fast text feedback thanks to vosk
 - Detects human voices (It records audio for Whisper only when needed)
 ### ⭐ Installation
 ```
@@ -30,8 +31,10 @@ chmod +x install.sh &&
 - [x] Easier way to choose a whisper model
 - [x] Improved code quality, comments, readability, etc...
 - [x] Verbosity switch
+- [x] Customizable settings
 - [ ] Custom VAD model support
 - [ ] Python's pip installation method
+- [ ] Keyboard support
 
 ### 🔴 Disclaimer
 Real-Time usage scenarios (like a voice assistant for example) requires a GPU with at least 2-4~ gb of vram. The more the vram, the largest the model you can load, the better the transcription and the slower it gets.
