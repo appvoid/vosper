@@ -23,9 +23,7 @@ chmod +x install.sh &&
 ### ▶ Usage
 ```python3 main.py # It's pretty minimal...```
 ### ☕ **Donations and Support** 
-Buy me a coffee! Creating this kind of things is tedious sometimes and enjoyable also. When you support a developer, you really make it to work a lot happier 😄
-### [ 👉 **Donate using PayPal** ](https://www.paypal.com/donate/?hosted_button_id=CDZH8GJET9SNU)
-### [ 👉 **Become a Patreon!** ](https://www.patreon.com/bePatron?u=52880328)
+[**paypal donation** ](https://www.paypal.com/donate/?hosted_button_id=CDZH8GJET9SNU) or [ **patreon support** ](https://www.patreon.com/bePatron?u=52880328)
 ### Roadmap
 - [x] Vosk Real-Time inference and Whisper VAD support
 - [x] Class-Based implementation
