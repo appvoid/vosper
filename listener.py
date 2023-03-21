@@ -17,7 +17,7 @@ def load (model='small'):
     print('Model loaded')
     return recognizer
 
-def Stream(listening=True):
+def Stream():
     mic = pyaudio.PyAudio()
     # microphone streaming
     stream = mic.open(
