@@ -66,7 +66,7 @@ class new:
 
         # we check if person stopped talking from vosk recognizer
         if self.vosk.AcceptWaveform(data):
-            self.recorder.stop() # we stop recording to save compute cpu
+            self.recorder.stop() # we stop recording to save cpu compute
             text = self.vosk.Result()[14:-3]
             # we also check if the input does worth the whisper gpu compute
             characters_threshold = 3
