@@ -7,7 +7,7 @@
 > New logo: Hopefully everyone likes it.<br>
 > vosper 2.0: The codebase was rewritten and more customization was added!<br>
 > Pip is coming: A proper, easier installation and update alternative will be launched soon.<br>
-> vosper 2.1: The codebase is being refactorized for highly-optimized implementation.
+> vosper 2.1: The codebase is being refactorized for highly-optimized implementation.<br> 
 
 ### 📑 Features
 - Minimal approach
