@@ -1,5 +1,5 @@
 
-### Error Rate Reference
+### Error Rate Reference (English)
 *- Lower is better, sorted by performance -*
 | model | librispeech | tedlium | average |
 | ----- | ----------- | ------- | ------- |
