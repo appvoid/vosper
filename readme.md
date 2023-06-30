@@ -40,3 +40,5 @@ chmod +x install.sh &&
 
 ### 🔴 Disclaimer
 Real-Time usage scenarios (like a voice assistant for example) requires a GPU with at least 2-4~ gb of vram. The more the vram, the largest the model you can load, the better the transcription and the slower it gets.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=appvoid/vosper&type=Date)](https://star-history.com/#appvoid/vosper&Date)
